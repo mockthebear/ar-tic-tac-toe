@@ -1,0 +1,444 @@
+# depslib dependency file v1.0
+1465332348 source:/home/mock/Desktop/IPI/nova/trabalho-final-ipi/src/imageprocessor.cpp
+	"../include/imageprocessor.hpp"
+	"../include/lineprocessor.hpp"
+	<stdio.h>
+
+1465249026 /home/mock/Desktop/IPI/nova/trabalho-final-ipi/include/imageprocessor.hpp
+	"opencv2/opencv.hpp"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<vector>
+
+1408029449 /usr/local/include/opencv2/opencv.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgproc.hpp"
+	"opencv2/photo.hpp"
+	"opencv2/video.hpp"
+	"opencv2/features2d.hpp"
+	"opencv2/objdetect.hpp"
+	"opencv2/calib3d.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/videoio.hpp"
+	"opencv2/highgui.hpp"
+	"opencv2/ml.hpp"
+
+1408029449 /usr/local/include/opencv2/core.hpp
+	"opencv2/core/cvdef.h"
+	"opencv2/core/version.hpp"
+	"opencv2/core/base.hpp"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/core/traits.hpp"
+	"opencv2/core/matx.hpp"
+	"opencv2/core/types.hpp"
+	"opencv2/core/mat.hpp"
+	"opencv2/core/persistence.hpp"
+	"opencv2/core/operations.hpp"
+	"opencv2/core/cvstd.inl.hpp"
+	"opencv2/core/utility.hpp"
+	"opencv2/core/optim.hpp"
+
+1408029449 /usr/local/include/opencv2/core/cvdef.h
+	<emmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<immintrin.h>
+	<Intrin.h>
+	"arm_neon.h"
+	<arm_neon.h>
+	<cstdint>
+	<stdint.h>
+	<fastmath.h>
+	<cmath>
+	<math.h>
+	"tegra_round.hpp"
+	<intrin.h>
+
+1408029449 /usr/local/include/opencv2/core/version.hpp
+
+1408029449 /usr/local/include/opencv2/core/base.hpp
+	<climits>
+	"opencv2/core/cvdef.h"
+	"opencv2/core/cvstd.hpp"
+
+1408029449 /usr/local/include/opencv2/core/cvstd.hpp
+	"opencv2/core/cvdef.h"
+	<cstddef>
+	<cstring>
+	<cctype>
+	<string>
+	<algorithm>
+	<utility>
+	<cstdlib>
+	<cmath>
+	"opencv2/core/ptr.inl.hpp"
+
+1408029449 /usr/local/include/opencv2/core/ptr.inl.hpp
+	<algorithm>
+
+1408029449 /usr/local/include/opencv2/core/traits.hpp
+	"opencv2/core/cvdef.h"
+
+1408029449 /usr/local/include/opencv2/core/matx.hpp
+	"opencv2/core/cvdef.h"
+	"opencv2/core/base.hpp"
+	"opencv2/core/traits.hpp"
+
+1408029449 /usr/local/include/opencv2/core/types.hpp
+	<climits>
+	<cfloat>
+	<vector>
+	"opencv2/core/cvdef.h"
+	"opencv2/core/cvstd.hpp"
+	"opencv2/core/matx.hpp"
+
+1408029449 /usr/local/include/opencv2/core/mat.hpp
+	"opencv2/core/matx.hpp"
+	"opencv2/core/types.hpp"
+	"opencv2/core/bufferpool.hpp"
+	"opencv2/core/mat.inl.hpp"
+
+1408029449 /usr/local/include/opencv2/core/bufferpool.hpp
+
+1408029449 /usr/local/include/opencv2/core/mat.inl.hpp
+
+1408029449 /usr/local/include/opencv2/core/persistence.hpp
+	"opencv2/core/types.hpp"
+	"opencv2/core/mat.hpp"
+
+1408029449 /usr/local/include/opencv2/core/operations.hpp
+	<cstdio>
+
+1408029449 /usr/local/include/opencv2/core/cvstd.inl.hpp
+	<complex>
+	<ostream>
+
+1408029449 /usr/local/include/opencv2/core/utility.hpp
+	"opencv2/core.hpp"
+
+1408029449 /usr/local/include/opencv2/core/optim.hpp
+	"opencv2/core.hpp"
+
+1408029449 /usr/local/include/opencv2/imgproc.hpp
+	"opencv2/core.hpp"
+
+1408029449 /usr/local/include/opencv2/photo.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgproc.hpp"
+
+1408029449 /usr/local/include/opencv2/video.hpp
+	"opencv2/video/tracking.hpp"
+	"opencv2/video/background_segm.hpp"
+
+1408029449 /usr/local/include/opencv2/video/tracking.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgproc.hpp"
+
+1408029449 /usr/local/include/opencv2/video/background_segm.hpp
+	"opencv2/core.hpp"
+
+1408029449 /usr/local/include/opencv2/features2d.hpp
+	"opencv2/core.hpp"
+	"opencv2/flann/miniflann.hpp"
+
+1408029449 /usr/local/include/opencv2/flann/miniflann.hpp
+	"opencv2/core.hpp"
+	"opencv2/flann/defines.h"
+
+1408029449 /usr/local/include/opencv2/flann/defines.h
+	"config.h"
+
+1408029449 /usr/local/include/opencv2/flann/config.h
+
+1408029449 /usr/local/include/opencv2/objdetect.hpp
+	"opencv2/core.hpp"
+	"opencv2/objdetect/detection_based_tracker.hpp"
+
+1408029449 /usr/local/include/opencv2/objdetect/detection_based_tracker.hpp
+	<vector>
+
+1408029449 /usr/local/include/opencv2/calib3d.hpp
+	"opencv2/core.hpp"
+	"opencv2/features2d.hpp"
+	"opencv2/core/affine.hpp"
+
+1408029449 /usr/local/include/opencv2/core/affine.hpp
+	<opencv2/core.hpp>
+
+1408029449 /usr/local/include/opencv2/imgcodecs.hpp
+	"opencv2/core.hpp"
+
+1408029449 /usr/local/include/opencv2/videoio.hpp
+	"opencv2/core.hpp"
+
+1408029449 /usr/local/include/opencv2/highgui.hpp
+	"opencv2/core.hpp"
+	"opencv2/imgcodecs.hpp"
+	"opencv2/videoio.hpp"
+
+1408029449 /usr/local/include/opencv2/ml.hpp
+	"opencv2/core.hpp"
+	<float.h>
+	<map>
+	<iostream>
+
+1408029449 /usr/local/include/opencv2/core/core.hpp
+	"opencv2/core.hpp"
+
+1408029449 /usr/local/include/opencv2/highgui/highgui.hpp
+	"opencv2/highgui.hpp"
+
+1408029449 /usr/local/include/opencv2/imgproc/imgproc.hpp
+	"opencv2/imgproc.hpp"
+
+1465335522 source:/home/mock/Desktop/IPI/nova/trabalho-final-ipi/src/main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<map>
+	<stdio.h>
+	"../include/imageprocessor.hpp"
+	"../include/lineprocessor.hpp"
+
+1465331988 /home/mock/Desktop/IPI/nova/trabalho-final-ipi/include/lineprocessor.hpp
+	"opencv2/opencv.hpp"
+	<opencv2/core/core.hpp>
+
+1465335494 source:/home/mock/Desktop/IPI/nova/trabalho-final-ipi/src/lineprocessor.cpp
+	"../include/lineprocessor.hpp"
+	<iostream>
+
+1467052422 source:/home/mock/trabalho-final-ipi/src/lineprocessor.cpp
+	"../include/lineprocessor.hpp"
+	<list>
+	<math.h>
+
+1466989335 /home/mock/trabalho-final-ipi/include/lineprocessor.hpp
+	"opencv2/opencv.hpp"
+	<opencv2/core/core.hpp>
+
+1467052108 source:/home/mock/trabalho-final-ipi/src/main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<map>
+	<stdio.h>
+	"../include/imageprocessor.hpp"
+	"../include/lineprocessor.hpp"
+	"../include/gamecontext.hpp"
+	<time.h>
+
+1467052045 /home/mock/trabalho-final-ipi/include/imageprocessor.hpp
+	"opencv2/opencv.hpp"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/features2d/features2d.hpp>
+	<opencv2/calib3d/calib3d.hpp>
+	<vector>
+	"gamecontext.hpp"
+
+1467053041 source:/home/mock/trabalho-final-ipi/src/imageprocessor.cpp
+	"../include/imageprocessor.hpp"
+	"../include/lineprocessor.hpp"
+	<stdio.h>
+
+1467051174 /home/mock/trabalho-final-ipi/include/gamecontext.hpp
+	"opencv2/opencv.hpp"
+	<opencv2/core/core.hpp>
+
+1467054921 source:/home/mock/trabalho-final-ipi/src/gamecontext.cpp
+	"../include/gamecontext.hpp"
+	"../include/imageprocessor.hpp"
+	"../include/lineprocessor.hpp"
+	<math.h>
+	<iostream>
+
+1467167438 source:/home/caio/trabalho-final-ipi/src/gamecontext.cpp
+	"../include/gamecontext.hpp"
+	"../include/imageprocessor.hpp"
+	"../include/lineprocessor.hpp"
+	<math.h>
+	<iostream>
+
+1467149403 /home/caio/trabalho-final-ipi/include/gamecontext.hpp
+	"opencv2/opencv.hpp"
+	<opencv2/core/core.hpp>
+
+1433352094 /usr/local/include/opencv2/hal/defs.h
+	<limits.h>
+	<emmintrin.h>
+	<pmmintrin.h>
+	<tmmintrin.h>
+	<smmintrin.h>
+	<nmmintrin.h>
+	<nmmintrin.h>
+	<popcntintrin.h>
+	<immintrin.h>
+	<immintrin.h>
+	<Intrin.h>
+	"arm_neon.h"
+	<arm_neon.h>
+	<cstdint>
+	<stdint.h>
+	<fastmath.h>
+	<cmath>
+	<math.h>
+	"tegra_round.hpp"
+	<algorithm>
+
+1433352094 /usr/local/include/opencv2/hal.hpp
+	"opencv2/hal/defs.h"
+
+1433352094 /usr/local/include/opencv2/core/sse_utils.hpp
+
+1433352094 /usr/local/include/opencv2/core/core_c.h
+	"opencv2/core/types_c.h"
+	"cxcore.h"
+	"cxcore.h"
+	"opencv2/core/utility.hpp"
+
+1433352094 /usr/local/include/opencv2/core/types_c.h
+	<ipl.h>
+	<ipl/ipl.h>
+	"opencv2/core/cvdef.h"
+	<assert.h>
+	<stdlib.h>
+	<string.h>
+	<float.h>
+	"opencv2/core.hpp"
+
+1433352094 /usr/local/include/opencv/cxcore.h
+	"opencv2/core/core_c.h"
+
+1433352094 /usr/local/include/opencv2/highgui/highgui_c.h
+	"opencv2/core/core_c.h"
+	"opencv2/imgproc/imgproc_c.h"
+	"opencv2/imgcodecs/imgcodecs_c.h"
+	"opencv2/videoio/videoio_c.h"
+
+1433352094 /usr/local/include/opencv2/imgproc/imgproc_c.h
+	"opencv2/imgproc/types_c.h"
+
+1433352094 /usr/local/include/opencv2/imgproc/types_c.h
+	"opencv2/core/core_c.h"
+
+1433352094 /usr/local/include/opencv2/imgcodecs/imgcodecs_c.h
+	"opencv2/core/core_c.h"
+
+1433352094 /usr/local/include/opencv2/videoio/videoio_c.h
+	"opencv2/core/core_c.h"
+
+1433352094 /usr/local/include/opencv2/photo/photo_c.h
+	"opencv2/core/core_c.h"
+
+1433352094 /usr/local/include/opencv2/video/tracking_c.h
+	"opencv2/imgproc/types_c.h"
+
+1433352094 /usr/local/include/opencv2/objdetect/objdetect_c.h
+	"opencv2/core/core_c.h"
+	<deque>
+	<vector>
+
+1433352094 /usr/local/include/opencv2/calib3d/calib3d_c.h
+	"opencv2/core/core_c.h"
+
+1467169676 /home/caio/trabalho-final-ipi/include/imageprocessor.hpp
+	"opencv2/opencv.hpp"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/features2d/features2d.hpp>
+	<opencv2/calib3d/calib3d.hpp>
+	<algorithm>
+	<vector>
+	"gamecontext.hpp"
+
+1467152535 /home/caio/trabalho-final-ipi/include/lineprocessor.hpp
+	"opencv2/opencv.hpp"
+	<opencv2/core/core.hpp>
+
+1467171143 source:/home/caio/trabalho-final-ipi/src/lineprocessor.cpp
+	"../include/lineprocessor.hpp"
+	<list>
+	<math.h>
+
+1467149885 source:/home/caio/trabalho-final-ipi/src/main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<map>
+	<stdio.h>
+	"../include/imageprocessor.hpp"
+	"../include/lineprocessor.hpp"
+	"../include/gamecontext.hpp"
+	<time.h>
+
+1467171485 source:/home/caio/trabalho-final-ipi/src/imageprocessor.cpp
+	"../include/imageprocessor.hpp"
+	"../include/lineprocessor.hpp"
+	<stdio.h>
+
+1433350473 /usr/local/include/opencv2/xfeatures2d.hpp
+	"opencv2/features2d.hpp"
+	"opencv2/xfeatures2d/nonfree.hpp"
+
+1433350473 /usr/local/include/opencv2/xfeatures2d/nonfree.hpp
+	"opencv2/features2d.hpp"
+
+1408029449 /usr/local/include/opencv2/features2d/features2d.hpp
+	"opencv2/features2d.hpp"
+
+1408029449 /usr/local/include/opencv2/calib3d/calib3d.hpp
+	"opencv2/calib3d.hpp"
+
+1467220531 source:/home/mock/ipp/trabalho-final-ipi/src/gamecontext.cpp
+	"../include/gamecontext.hpp"
+	"../include/imageprocessor.hpp"
+	"../include/lineprocessor.hpp"
+	<math.h>
+	<iostream>
+
+1467149129 /home/mock/ipp/trabalho-final-ipi/include/gamecontext.hpp
+	"opencv2/opencv.hpp"
+	<opencv2/core/core.hpp>
+
+1467175629 /home/mock/ipp/trabalho-final-ipi/include/imageprocessor.hpp
+	"opencv2/opencv.hpp"
+	<opencv2/core/core.hpp>
+	<opencv2/highgui/highgui.hpp>
+	<opencv2/imgproc/imgproc.hpp>
+	<opencv2/features2d/features2d.hpp>
+	<opencv2/calib3d/calib3d.hpp>
+	<algorithm>
+	<vector>
+	"gamecontext.hpp"
+
+1467155736 /home/mock/ipp/trabalho-final-ipi/include/lineprocessor.hpp
+	"opencv2/opencv.hpp"
+	<opencv2/core/core.hpp>
+
+1467173239 source:/home/mock/ipp/trabalho-final-ipi/src/lineprocessor.cpp
+	"../include/lineprocessor.hpp"
+	<list>
+	<math.h>
+
+1467147231 source:/home/mock/ipp/trabalho-final-ipi/src/main.cpp
+	<iostream>
+	<math.h>
+	<vector>
+	<map>
+	<stdio.h>
+	"../include/imageprocessor.hpp"
+	"../include/lineprocessor.hpp"
+	"../include/gamecontext.hpp"
+	<time.h>
+
+1467230194 source:/home/mock/ipp/trabalho-final-ipi/src/imageprocessor.cpp
+	"../include/imageprocessor.hpp"
+	"../include/lineprocessor.hpp"
+	<stdio.h>
+

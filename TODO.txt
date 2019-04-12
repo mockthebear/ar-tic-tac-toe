@@ -1,0 +1,7 @@
+Importante: Eu estava com preguiça, ja tinha feito uma função que diz se 2 linhas estão se cruzando. Ela estava errada.
+Então eu copiei na cara dura uma da internet. Mas bem... isso é feio, então uma das tarefas é refazer essa checagem!
+
+Fazer uma classe que segura o contexto do jogo... O status do jogo!
+Testar checagem de linhas com simbolos
+
+a
